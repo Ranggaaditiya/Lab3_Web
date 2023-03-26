@@ -1,2 +1,17 @@
 # Lab3_Web
 Praktikum 3
+![1](https://user-images.githubusercontent.com/127511355/227791631-f6646b92-bbf8-4701-92cf-325069453cfa.png)
+![2](https://user-images.githubusercontent.com/127511355/227791636-73a54d2a-d845-4f04-ad66-7e155fc1fd54.png)
+![3](https://user-images.githubusercontent.com/127511355/227791639-2195778d-27a2-4da9-9f27-1bd6cb324f68.png)
+![4](https://user-images.githubusercontent.com/127511355/227791641-3ab4ab90-28f5-4562-8c7d-f6a1d7d818d9.png)
+![5](https://user-images.githubusercontent.com/127511355/227791642-da7016b5-5700-43c3-a4ea-a1bcc0ba5af8.png)
+![6](https://user-images.githubusercontent.com/127511355/227791643-90db7d09-c808-4c3a-80a3-12fcd4118972.png)
+![7](https://user-images.githubusercontent.com/127511355/227791645-0009a6f7-1c06-4997-8bc2-4dbdd6f5c2de.png)
+![8](https://user-images.githubusercontent.com/127511355/227791646-11f22fe0-ae6f-4a72-9692-c99e18e86de3.png)
+![9](https://user-images.githubusercontent.com/127511355/227791650-ea4ad4e2-32f2-4575-a385-7f6d105fcc93.png)
+![10](https://user-images.githubusercontent.com/127511355/227791651-ee29eb23-08dc-47a6-80fd-d8a242527d53.png)
+![11](https://user-images.githubusercontent.com/127511355/227791652-4a9e9cfb-4cc1-47da-b793-be7861a41bd6.png)
+![12](https://user-images.githubusercontent.com/127511355/227791654-c69a9d53-af03-4a76-b022-e812452f1a38.png)
+![13](https://user-images.githubusercontent.com/127511355/227791655-95751617-e663-4504-9d91-9b442898797f.png)
+![14](https://user-images.githubusercontent.com/127511355/227791656-370ccb3d-8c7b-4918-adf2-0e220f78cf4f.png)
+![15](https://user-images.githubusercontent.com/127511355/227791658-ef42bb16-0b95-4933-8f7a-a6a08aa9febe.png)
